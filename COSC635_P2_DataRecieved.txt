@@ -1,0 +1,25 @@
+
+
+
+
+
+
+Internet Engineering Task Force (IETF)                         R. Gilman
+Request for Comments: 6871                                   Independent
+Updates: 5939                                                    R. Even
+Category: Standards Track                            Huawei Technologies
+ISSN: 2070-1721                                             F. Andreasen
+                                                           Cisco Systems
+                                                           February 2013
+
+
+   Session Description Protocol (SDP) Media Capabilities Negotiation
+
+Abstract
+
+   Session Description Protocol (SDP) capability negotiation provides a
+   general framework for indicating and negotiating capabilities in SDP.
+   The base framework defines only capabilities for negotiating
+   transport protocols and attributes.  This documents extends the
+   framework by defining media capabilities that can be used to
+   negotiate media types and their associated parameters.
